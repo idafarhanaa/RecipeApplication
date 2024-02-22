@@ -181,6 +181,9 @@ https://food2fork.ca/api/recipe/get/?id=583
 
 <img src="https://user-images.githubusercontent.com/11629459/212318000-c955c8cd-9136-44db-9094-c7307785ff53.png" width=30% height=30%>
 
+
+credits to ercanduman/recipeApp
+
 APK file can be found in **[/apk](https://github.com/ercanduman/RecipeApplication/tree/main/apk "/apk")**
 folder as compressed** .zip** file or
 under **[/debug](https://github.com/ercanduman/RecipeApplication/tree/main/apk/debug "/debug")** folder as **
